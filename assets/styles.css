@@ -198,6 +198,7 @@
   }
   .img-client{
     margin-top: 60px;
+    
   }
 }
 @media only screen and (min-width: 1400px) {
@@ -211,7 +212,7 @@
 }
 .box-client{
   margin-top: 50px;
-  
+
 }
 .title-client{
   margin-bottom: 70px;
@@ -245,6 +246,12 @@
   color:#ffff;
 }
 
+.card1{
+  background-color: #6c748c;
+  border-radius: 8px;
+  padding: 10px;
+  
+}
 
 
 /*--------------------------------------------------------------
@@ -302,6 +309,7 @@
 #section-organizator{
   background-color: #d699d5;
   color:white;
+  
 }
 
 
@@ -328,8 +336,7 @@
   }
 
   #section-review-users{
-    background-image: url("https://img.freepik.com/vector-gratis/resumen-colores-fondo_23-2148462464.jpg?w=1380&t=st=1680582756~exp=1680583356~hmac=efeddcb271398c3408545f31db4a5af7851966d7f5ee816849a8a0437c30cd5c");
-    
+    background-color: #8c88b2;
     padding: 20px;
     color:#ffff;
   }
@@ -392,7 +399,7 @@
 
   #section-events{
     color:#ffff;
-    background-image: url("img/neon4.jpg");
+    background-color: #6c748c;
     padding: 50px;
   }
   .text-event{
