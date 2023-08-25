@@ -253,6 +253,11 @@
   
 }
 
+@media (max-width: 767px) {
+  .title-client {
+    font-size: 55px; 
+  }
+}
 
 /*--------------------------------------------------------------
 # Home-Section-Organizator
@@ -312,7 +317,11 @@
   
 }
 
-
+@media (max-width: 767px) {
+  .title-organizator {
+    font-size: 55px; 
+  }
+}
 
 /*--------------------------------------------------------------
 # Home-Section-User-Review
